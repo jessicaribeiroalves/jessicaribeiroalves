@@ -30,6 +30,13 @@ header {
     align-items: center;
 }
 
+i:hover {
+    background-color: white;
+    color: gray;
+    transform: scale(1.2);
+    padding: 10px;
+}
+
 span {
     background-color: gray;
     width: 100%;
@@ -63,6 +70,11 @@ span {
     align-items: center;
 }
 
+progress[value] {
+    width: 250px;
+    height: 20px;
+}
+
 footer {
     height: 40%;
     display: flex;
@@ -79,8 +91,10 @@ footer {
 }
 
 .media {
+    background-color: gray;
     width: 100%;
+    height: 20%;
     display: flex;
     justify-content: space-around;
-    align-items:
+    align-items:center;
 }
