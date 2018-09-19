@@ -18,6 +18,11 @@ header {
     font-family: "Rock Salt", cursive;
     display: flex;
     justify-content: flex-end;
+    align-items: flex-start;
+}
+
+h1:hover {
+    color: gray;
 }
 
 .sidebar{
