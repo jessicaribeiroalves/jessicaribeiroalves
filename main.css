@@ -12,23 +12,63 @@ body {
 }
 
 header {
-    height: 20%;
+    background-image: url(./images/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    font-family: "Rock Salt", cursive;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-end;
 }
 
 .sidebar{
     height: 100%;
-    width: 20%;
+    width: 30%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
 }
 .profile {
-    height: 80%;
+    font-family: "Scheherazade", serif;
     display: flex;
     flex-direction: column;
+}
+
+.history {
+    background-color: gray;
+    font-family: "Scheherazade", serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.study {
+    font-family: "Scheherazade", serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     align-items: center;
+}
+
+.work {
+    font-family: "Scheherazade", serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact {
+    font-family: "Scheherazade", serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items:
 }
