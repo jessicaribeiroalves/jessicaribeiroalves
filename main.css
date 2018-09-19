@@ -3,8 +3,6 @@ html {
 }
 
 body {
-    background-color: black;
-    color: white;
     height: 100%;
     display: flex;
     justify-content: space-around;
@@ -12,9 +10,10 @@ body {
 }
 
 header {
-    background-image: url(./images/bg.jpeg);
+    background-image: url(./images/example.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 30%;
+    background-position: bottom right;
     height: 100%;
     font-family: "Rock Salt", cursive;
     display: flex;
@@ -22,6 +21,7 @@ header {
 }
 
 .sidebar{
+    background-color: gray;
     height: 100%;
     width: 30%;
     display: flex;
@@ -29,21 +29,27 @@ header {
     justify-content: space-around;
     align-items: center;
 }
+
+span {
+    background-color: gray;
+    width: 100%;
+    font-family: "Chelsea Market", cursive;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
 .profile {
-    font-family: "Scheherazade", serif;
     display: flex;
     flex-direction: column;
 }
 
 .history {
-    background-color: gray;
-    font-family: "Scheherazade", serif;
     display: flex;
     flex-direction: column;
 }
 
 .study {
-    font-family: "Scheherazade", serif;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -51,22 +57,28 @@ header {
 }
 
 .work {
-    font-family: "Scheherazade", serif;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
 }
 
-.contact {
-    font-family: "Scheherazade", serif;
+footer {
+    height: 40%;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
 }
 
-.icons {
+.data-contact {
+    height: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.media {
     width: 100%;
     display: flex;
     justify-content: space-around;
