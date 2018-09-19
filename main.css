@@ -6,7 +6,6 @@ body {
     height: 100%;
     display: flex;
     justify-content: space-around;
-
 }
 
 header {
@@ -25,7 +24,7 @@ h1:hover {
     color: gray;
 }
 
-.sidebar{
+.sidebar {
     background-color: gray;
     height: 100%;
     width: 30%;
@@ -40,6 +39,10 @@ i:hover {
     color: gray;
     transform: scale(1.2);
     padding: 10px;
+}
+
+a:visited {
+    color: black;
 }
 
 span {
