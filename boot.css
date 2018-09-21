@@ -1,7 +1,21 @@
 header {
     font-family: "Rock Salt", cursive;
     background-color: gray;
-    color: white;
+}
+
+.container-fluid img{
+    float: right;
+    width: 360px;
+}
+
+#menu {
     display: flex;
-    align-items: flex-end;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#footicons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }

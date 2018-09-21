@@ -6,13 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Tabs Test</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="./tabs.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="boot.css" />
     <script src="main.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
-        crossorigin="anonymous">
+    crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Chelsea+Market|Rock+Salt" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
-        crossorigin="anonymous">
+    crossorigin="anonymous">
 </head>
 
 <body>
@@ -22,7 +22,7 @@
         <div class="collapse" id="navbarToggleExternalContent">
             <div class="bg-dark p-4">
                 <h5 class="text-white h4">Welcome to my portfolio!</h5>
-                <div class="row">
+                <div class="row" id="menu">
                     <a class="btn btn-light" data-toggle="collapse" href="#home" role="button" aria-expanded="false" aria-controls="home"><i class="fas fa-3x fa-home"></i></a>
                     <a class="btn btn-light" data-toggle="collapse" href="#profile" role="button" aria-expanded="false" aria-controls="profile"><i class="fas fa-3x fa-user"></i></a>
                     <a class="btn btn-light" data-toggle="collapse" href="#history" role="button" aria-expanded="false" aria-controls="history"><i class="fas fa-3x fa-book-open"></i></a>
@@ -40,12 +40,15 @@
         </nav>
     </div>
     <!-- NAVBAR END -->
-
+    
+    <!-- HEADER -->
     <header>
         <div class="container-fluid">
-            <h1>Jessica Ribeiro Alves</h1>
+            <h1 class="display-3 text-right">Jessica Alves</h1>
+            <img src="./images/example.png" alt="">
         </div>
     </header>
+    <!-- HEADER END -->
 
     <div class="row">
         <div class="col-9">
@@ -102,10 +105,10 @@
             <div class="col">
                 <div class="collapse multi-collapse" id="contact">
                     <div class="card card-body">
-                        <span>Contact</span>
-                        <i class="fas fa-map-marker-alt"> Sydney, Australia</i>
+                        <span class="display-4">Contact</span><br>
+                        <i class="fas fa-map-marker-alt"> Sydney, Australia</i><br>
                         <i class="fas fa-at"> jessralves@gmail.com</i><br>
-                        <div class="row">
+                        <div class="row" id="footicons">
                             <a href="https://github.com/jessicaribeiroalves" target="_blank"><i class="fab fa-3x fa-github"></i></a>
                             <a href="https://www.hackerrank.com/jessralves" target="_blank"><i class="fab fa-3x fa-hackerrank"></i></a>
                             <a href="https://www.linkedin.com/in/jessica-ribeiro-alves/" target="_blank"><i class="fab fa-3x fa-linkedin"></i></a>
@@ -119,15 +122,14 @@
         </div>
     </div>
 
-    </div>
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-        crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-        crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
-        crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script>
 
 </body>
 
