@@ -21,7 +21,7 @@
     <div class="pos-f-t">
         <div class="collapse" id="navbarToggleExternalContent">
             <div class="bg-dark p-4">
-                <h5 class="text-white h4">Welcome to my portfolio!</h5>
+                <h5 class="text-center text-white h4" id="title">Hello, I'm dev student. Welcome to my portfolio!</h5><br>
                 <div class="row" id="menu">
                     <a class="btn btn-light" data-toggle="collapse" href="#home" role="button" aria-expanded="false" aria-controls="home"><i class="fas fa-3x fa-home"></i></a>
                     <a class="btn btn-light" data-toggle="collapse" href="#profile" role="button" aria-expanded="false" aria-controls="profile"><i class="fas fa-3x fa-user"></i></a>
@@ -29,7 +29,6 @@
                     <a class="btn btn-light" data-toggle="collapse" href="#contact" role="button" aria-expanded="false" aria-controls="contact"><i class="fas fa-3x fa-envelope"></i></a>
                     
                 </div>
-            
             </div>
         </div>
         <nav class="navbar navbar-dark bg-dark">
@@ -45,7 +44,7 @@
     <header>
         <div class="container-fluid">
             <h1 class="display-3 text-right">Jessica Alves</h1>
-            <img src="./images/example.png" alt="">
+            <img src="./images/example.png" alt="Profile picture">
         </div>
     </header>
     <!-- HEADER END -->
@@ -56,10 +55,22 @@
             <div class="col">
                 <div class="collapse multi-collapse" id="home">
                     <div class="card card-body">
-                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
-                        squid.
-                        Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
-                        proident.
+                        <div class="card" style="width: 18rem;" id="news">
+                            <img class="card-img-top" src="./images/example.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Latest posts</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="https://medium.com/@jessalves" target="_blank" class="btn btn-dark">View</a>
+                            </div>
+                            <div class="card" style="width: 18rem;" id="projects">
+                                <img class="card-img-top" src="./images/example.png" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Latest projects</h5>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="https://github.com/jessicaribeiroalves?tab=repositories" target="_blank" class="btn btn-dark">View</a>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -68,7 +79,7 @@
             <div class="col">
                 <div class="collapse multi-collapse" id="profile">
                     <div class="card card-body">
-                        <span>Profile</span>
+                        <span class="text-center"><strong>About me ...</strong></span>
                         Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
                         squid.
                         Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
@@ -81,21 +92,21 @@
             <div class="col">
                 <div class="collapse multi-collapse" id="history">
                     <div class="card card-body">
-                        <span>Study</span>
+                        <span class="text-center"><strong>Study</strong></span>
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque, animi. Dolor, dolore sed
                         magni illo voluptates odio exercitationem odit quo, voluptatum atque asperiores architecto.
                         Ut
                         ab labore assumenda libero ad?
-                        <span>Work</span>
+                        <span class="text-center"><strong>Work</strong></span>
                         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque, animi. Dolor, dolore sed
                         magni illo voluptates odio exercitationem odit quo, voluptatum atque asperiores architecto.
                         Ut
                         ab labore assumenda libero ad?
-                        <span>Skills</span>
-                        <ul>
-                            <li><progress max="100" value="50"></progress> Ruby</li>
-                            <li><progress max="100" value="30"></progress> HTML</li>
-                            <li><progress max="100" value="30"></progress> CSS</li>
+                        <span class="text-center"><strong>Skills</strong></span>
+                        <ul class="text-center">
+                            <li class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"> Ruby</li><br>
+                            <li class="progress-bar bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"> HTML</li><br>
+                            <li class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"> CSS</li>
                         </ul>
                     </div>
                 </div>
@@ -109,10 +120,10 @@
                         <i class="fas fa-map-marker-alt"> Sydney, Australia</i><br>
                         <i class="fas fa-at"> jessralves@gmail.com</i><br>
                         <div class="row" id="footicons">
-                            <a href="https://github.com/jessicaribeiroalves" target="_blank"><i class="fab fa-3x fa-github"></i></a>
-                            <a href="https://www.hackerrank.com/jessralves" target="_blank"><i class="fab fa-3x fa-hackerrank"></i></a>
-                            <a href="https://www.linkedin.com/in/jessica-ribeiro-alves/" target="_blank"><i class="fab fa-3x fa-linkedin"></i></a>
-                            <a href="https://medium.com/@jessalves" target="_blank"><i class="fab fa-3x fa-medium"></i></a>
+                            <a class="btn btn-light" href="https://github.com/jessicaribeiroalves" target="_blank"><i class="fab fa-3x fa-github"></i></a>
+                            <a class="btn btn-light" href="https://www.hackerrank.com/jessralves" target="_blank"><i class="fab fa-3x fa-hackerrank"></i></a>
+                            <a class="btn btn-light" href="https://www.linkedin.com/in/jessica-ribeiro-alves/" target="_blank"><i class="fab fa-3x fa-linkedin"></i></a>
+                            <a class="btn btn-light" href="https://medium.com/@jessalves" target="_blank"><i class="fab fa-3x fa-medium"></i></a>
                         </div>
                     </div>
                 </div>

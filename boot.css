@@ -1,17 +1,34 @@
+
+
+#title {
+    font-family: "Chelsea Market", cursive;
+}
 header {
-    font-family: "Rock Salt", cursive;
-    background-color: gray;
+    font-family: "Chelsea Market", cursive;
+    background-color: #7D7B7C;
 }
 
 .container-fluid img{
     float: right;
-    width: 360px;
+    width: 400px;
+}
+
+span {
+    font-family: "Chelsea Market", cursive;
 }
 
 #menu {
     display: flex;
     justify-content: space-around;
     align-items: center;
+}
+
+#news img {
+    width: 100px;
+}
+
+#projects img {
+    width: 100px;
 }
 
 #footicons {
