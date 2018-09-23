@@ -37,8 +37,9 @@ Potential employers and others interested in the work and experience of the deve
 
 - HTML
 - CSS
-- Bootstrap
 - Git/GitHub
+- Bootstrap
+- Flexbox
 - Font Awesome
 - Google Fonts
 
