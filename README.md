@@ -8,7 +8,7 @@
 
 Design, develop and deploy a portfolio website to showcases talent, abilities and coding experience.
 
-## Functionality and sitemap
+## Functionality and Sitemap
 
 - Homepage with name, picture and navbar.
 - Navbar containing four different icons and each icon represents a different section to navigate: home, profile, history and contact.
@@ -42,7 +42,7 @@ Potential employers and others interested in the work and experience of the deve
 - Font Awesome
 - Google Fonts
 
-## Design Process and usability
+## Design Process and Usability
 
 The site was designed to have a simple and clean design so that the navigation becomes easy and objective. The colors also followed simple and clean pattern, predominating white, gray and black.
 
