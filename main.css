@@ -16,6 +16,7 @@ header {
 
 span {
     font-family: "Chelsea Market", cursive;
+    color: #7D7B7C;
 }
 
 #menu {
@@ -24,13 +25,10 @@ span {
     align-items: center;
 }
 
-#news img {
-    width: 100px;
-}
-
-#projects img {
-    width: 100px;
-}
+/* #home {
+    display: flex;
+    justify-content: space-around;
+} */
 
 #footicons {
     display: flex;
@@ -43,7 +41,5 @@ span {
 @media only screen and (max-width:1024px) {
 
     .container-fluid img {display: none;}
-    .collapse {display: flex;
-    justify-content: space-around;}
 }
 
