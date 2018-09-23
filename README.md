@@ -32,14 +32,14 @@ The site was designed to have a simple and clean design so that the navigation b
 
 Use of the Balsamic software to sketch the first design of the website.
 
-![Balsamic Screenshots]
-(https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%201.png)
+![Balsamic Screenshot 1](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%201.png)
+
+![Balsamic Screenshot 2](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%202.png)
 
 
-(https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%202.png)
+![Balsamic Screenshot 3](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%203.png)
 
 
-(https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%203.png)
+![Balsamic Screenshot 4](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%204.png)
 
 
-(https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%204.png)
