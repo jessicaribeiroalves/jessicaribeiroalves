@@ -18,16 +18,16 @@ Design, develop and deploy a portfolio website to showcases talent, abilities an
 
 ## Screenshots
 
-![Home](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/Home%20Screenshot.png)
+![Home](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Home%20Screenshot.png)
 
 
-![Profile](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/Profile%20Screenshot.png)
+![Profile](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Profile%20Screenshot.png)
 
 
-![History](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/History%20Screenshot.png)
+![History](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/History%20Screenshot.png)
 
 
-![Contact](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/Contact%20Screenshot.png)
+![Contact](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Contact%20Screenshot.png)
 
 ## Target Audience
 
@@ -50,20 +50,20 @@ The site was designed to have a simple and clean design so that the navigation b
 
 Use of the Balsamic software to sketch the first design of the website.
 
-![Balsamic Screenshot 1](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%201.png)
+![Balsamic Screenshot 1](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/balsamic%201.png)
 
-![Balsamic Screenshot 2](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%202.png)
-
-
-![Balsamic Screenshot 3](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%203.png)
+![Balsamic Screenshot 2](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/balsamic%202.png)
 
 
-![Balsamic Screenshot 4](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/balsamic%204.png)
+![Balsamic Screenshot 3](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/balsamic%203.png)
+
+
+![Balsamic Screenshot 4](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/balsamic%204.png)
 
 
 ## Planning process
 
-
+![Trello Screenshot](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Trello%20Screenshot.png)
 
 
 ## Q & A
