@@ -18,6 +18,17 @@ Design, develop and deploy a portfolio website to showcases talent, abilities an
 
 ## Screenshots
 
+![Home](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/Home%20Screenshot.png)
+
+
+![Profile](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/Profile%20Screenshot.png)
+
+
+![History](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/History%20Screenshot.png)
+
+
+![Contact](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/Contact%20Screenshot.png)
+
 ## Target Audience
 
 Potential employers and others interested in the work and experience of the developer student.
