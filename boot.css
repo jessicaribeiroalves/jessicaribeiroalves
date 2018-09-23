@@ -6,9 +6,10 @@
 header {
     font-family: "Chelsea Market", cursive;
     background-color: #7D7B7C;
+
 }
 
-.container-fluid img{
+.container-fluid img {
     float: right;
     width: 400px;
 }
@@ -36,3 +37,13 @@ span {
     justify-content: space-around;
     align-items: center;
 }
+
+/* RESPONSIVE */
+
+@media only screen and (max-width:1024px) {
+
+    .container-fluid img {display: none;}
+    .collapse {display: flex;
+    justify-content: space-around;}
+}
+
