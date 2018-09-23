@@ -1,108 +1,49 @@
-html {
-    height: 100%;
-}
 
-body {
-    height: 100%;
-    display: flex;
-    justify-content: space-around;
-}
 
+#title {
+    font-family: "Chelsea Market", cursive;
+}
 header {
-    background-image: url(./images/example.png);
-    background-repeat: no-repeat;
-    background-size: 30%;
-    background-position: bottom right;
-    height: 100%;
-    font-family: "Rock Salt", cursive;
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
+    font-family: "Chelsea Market", cursive;
+    background-color: #7D7B7C;
+
 }
 
-h1:hover {
-    color: gray;
-}
-
-.sidebar {
-    background-color: gray;
-    height: 100%;
-    width: 30%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-}
-
-i:hover {
-    background-color: white;
-    color: gray;
-    transform: scale(1.2);
-    padding: 10px;
-}
-
-a:visited {
-    color: black;
+.container-fluid img {
+    float: right;
+    width: 400px;
 }
 
 span {
-    background-color: gray;
-    width: 100%;
     font-family: "Chelsea Market", cursive;
-    font-size: 30px;
-    display: flex;
-    justify-content: center;
 }
 
-.profile {
-    display: flex;
-    flex-direction: column;
-}
-
-.history {
-    display: flex;
-    flex-direction: column;
-}
-
-.study {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.work {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-}
-
-progress[value] {
-    width: 250px;
-    height: 20px;
-}
-
-footer {
-    height: 40%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.data-contact {
-    height: 20%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-
-.media {
-    background-color: gray;
-    width: 100%;
-    height: 20%;
+#menu {
     display: flex;
     justify-content: space-around;
-    align-items:center;
+    align-items: center;
 }
+
+#news img {
+    width: 100px;
+}
+
+#projects img {
+    width: 100px;
+}
+
+#footicons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/* RESPONSIVE */
+
+@media only screen and (max-width:1024px) {
+
+    .container-fluid img {display: none;}
+    .collapse {display: flex;
+    justify-content: space-around;}
+}
+

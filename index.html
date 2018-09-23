@@ -4,85 +4,143 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Jessica's Portfolio</title>
+    <title>Tabs Test</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="./main.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="boot.css" />
+    <script src="main.js"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
     crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Chelsea+Market|Rock+Salt" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+    crossorigin="anonymous">
 </head>
 
 <body>
 
-    <!-- SIDEBAR -->
-    <nav class="sidebar">
-        <i class="fas fa-3x fa-home"></i>
-        <i class="fas fa-3x fa-user"></i>
-        <i class="fas fa-3x fa-book-open"></i>
-        <i class="fas fa-3x fa-envelope"></i>
-    </nav>
-    <!-- SIDEBAR END -->
-
-    <!-- PAGE CONTENT-->
-    <div class="content">
-        <header>
-            <h1>Jessica Ribeiro Alves</h1>
-        </header>
-
-        <!-- PROFILE -->
-        <div class="profile">
-            <span>Profile</span>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo mollitia unde sunt commodi non libero incidunt magnam delectus eos amet aspernatur, necessitatibus esse iusto doloremque repellat eligendi. Officia, neque ratione!</p>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni deserunt, non aliquid explicabo, pariatur ut ipsam aspernatur asperiores sequi tenetur iusto cumque incidunt fuga hic placeat optio facilis praesentium laboriosam!</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti aut laudantium incidunt similique ullam doloribus illum dignissimos corrupti illo dolores qui voluptas cumque itaque ab sapiente odio, ad alias ex! Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil numquam, consequuntur, eligendi ullam impedit esse laborum quo voluptate blanditiis temporibus sit, dignissimos rerum totam ab fuga aspernatur nemo asperiores et!Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam quisquam, repellat adipisci asperiores modi illum repellendus perferendis hic amet doloremque eius, voluptas eum reprehenderit dicta laborum suscipit accusamus aspernatur assumenda.</p>
-        </div>
-        <!-- PROFILE END -->
-
-        <!-- HISTORY -->
-        <div class="history">
-            <div class="study">
-                <span>Study</span>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit labore ipsa ratione reprehenderit, quis fugit commodi similique iusto saepe deserunt animi, voluptatum iste quod eos illum eius in reiciendis. Repellendus.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, commodi? Asperiores aliquid perferendis alias molestias. Eligendi exercitationem quas asperiores iure neque non molestiae molestias quod, et vel labore ea. Ducimus.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, impedit. Ullam totam fuga hic quos cupiditate, repellendus, rerum consequuntur eos blanditiis id illum explicabo quam incidunt fugiat molestiae voluptates ducimus?</p>
-            </div>
-
-            <div class="work">
-                <span>Work</span>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus iusto autem, quia error tenetur saepe rem voluptate molestias non? Amet beatae impedit magni inventore iusto dolor! Possimus unde nobis quisquam!</p>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae similique debitis rerum consequatur earum, animi neque molestiae quisquam, sit dolorem fugit, iste reprehenderit blanditiis. Voluptate hic aspernatur sit tempora repudiandae?</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti sed aut, placeat praesentium temporibus distinctio commodi fuga autem! Repellendus beatae cumque maiores doloribus, repellat voluptate eaque fuga minus nulla rem!</p>
-
-                <div class="skills">
-                    <ul>
-                        <li><progress max="100" value="50"></progress> Ruby</li>
-                        <li><progress max="100" value="30"></progress> HTML</li>
-                        <li><progress max="100" value="30"></progress> CSS</li>
-                    </ul>
+    <!-- NAVBAR -->
+    <div class="pos-f-t">
+        <div class="collapse" id="navbarToggleExternalContent">
+            <div class="bg-dark p-4">
+                <h5 class="text-center text-white h4" id="title">Hello, I'm dev student. Welcome to my portfolio!</h5><br>
+                <div class="row" id="menu">
+                    <a class="btn btn-light" data-toggle="collapse" href="#home" role="button" aria-expanded="false" aria-controls="home"><i class="fas fa-3x fa-home"></i></a>
+                    <a class="btn btn-light" data-toggle="collapse" href="#profile" role="button" aria-expanded="false" aria-controls="profile"><i class="fas fa-3x fa-user"></i></a>
+                    <a class="btn btn-light" data-toggle="collapse" href="#history" role="button" aria-expanded="false" aria-controls="history"><i class="fas fa-3x fa-book-open"></i></a>
+                    <a class="btn btn-light" data-toggle="collapse" href="#contact" role="button" aria-expanded="false" aria-controls="contact"><i class="fas fa-3x fa-envelope"></i></a>
+                    
                 </div>
             </div>
         </div>
-        <!-- HISTORY END -->
-
-        <!-- FOOTER -->
-        <footer>
-            <span>Contact</span>
-            <div class="data-contact">
-                <i class="fas fa-map-marker-alt"> Sydney, Australia</i>
-                <i class="fas fa-at"> jessralves@gmail.com</i>
-            </div>
-            <div class="media">
-                <a href="https://github.com/jessicaribeiroalves" target="_blank"><i class="fab fa-3x fa-github"></i></a>
-                <a href="https://www.hackerrank.com/jessralves" target="_blank"><i class="fab fa-3x fa-hackerrank"></i></a>
-                <a href="https://www.linkedin.com/in/jessica-ribeiro-alves/" target="_blank"><i class="fab fa-3x fa-linkedin"></i></a>
-                <a href="https://medium.com/@jessalves" target="_blank"><i class="fab fa-3x fa-medium"></i></a>
-            </div>
-        </footer>
-        <!-- FOOTER END -->
+        <nav class="navbar navbar-dark bg-dark">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent"
+                aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </nav>
     </div>
-    <!-- PAGE CONTENT END -->
+    <!-- NAVBAR END -->
+    
+    <!-- HEADER -->
+    <header>
+        <div class="container-fluid">
+            <h1 class="display-4 text-right">Jessica Alves</h1>
+            <img src="./images/example.png" alt="Profile picture">
+        </div>
+    </header>
+    <!-- HEADER END -->
+
+    <div class="row">
+        <div class="col-9" id="content">
+            <!-- HOME -->
+            <div class="col">
+                <div class="collapse multi-collapse" id="home">
+                    <div class="card card-body">
+                        <div class="card" style="width: 18rem;" id="news">
+                            <img class="card-img-top" src="./images/example.png" alt="Card image cap">
+                            <div class="card-body">
+                                <h5 class="card-title">Latest posts</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                <a href="https://medium.com/@jessalves" target="_blank" class="btn btn-dark">View</a>
+                            </div>
+                            <div class="card" style="width: 18rem;" id="projects">
+                                <img class="card-img-top" src="./images/example.png" alt="Card image cap">
+                                <div class="card-body">
+                                    <h5 class="card-title">Latest projects</h5>
+                                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <a href="https://github.com/jessicaribeiroalves?tab=repositories" target="_blank" class="btn btn-dark">View</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- HOME END -->
+            <!-- PROFILE -->
+            <div class="col">
+                <div class="collapse multi-collapse" id="profile">
+                    <div class="card card-body">
+                        <span class="text-center"><strong>About me ...</strong></span>
+                        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad
+                        squid.
+                        Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea
+                        proident.
+                    </div>
+                </div>
+            </div>
+            <!-- PROFILE END -->
+            <!-- HISTORY -->
+            <div class="col">
+                <div class="collapse multi-collapse" id="history">
+                    <div class="card card-body">
+                        <span class="text-center"><strong>Study</strong></span>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque, animi. Dolor, dolore sed
+                        magni illo voluptates odio exercitationem odit quo, voluptatum atque asperiores architecto.
+                        Ut
+                        ab labore assumenda libero ad?
+                        <span class="text-center"><strong>Work</strong></span>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque, animi. Dolor, dolore sed
+                        magni illo voluptates odio exercitationem odit quo, voluptatum atque asperiores architecto.
+                        Ut
+                        ab labore assumenda libero ad?
+                        <span class="text-center"><strong>Skills</strong></span>
+                        <ul class="text-center">
+                            <li class="progress-bar bg-success" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"> Ruby</li><br>
+                            <li class="progress-bar bg-info" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"> HTML</li><br>
+                            <li class="progress-bar bg-danger" role="progressbar" style="width: 100%" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"> CSS</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- HISTORY END -->
+            <!-- CONTACT -->
+            <div class="col">
+                <div class="collapse multi-collapse" id="contact">
+                    <div class="card card-body">
+                        <span class="display-4">Contact</span><br>
+                        <i class="fas fa-map-marker-alt"> Sydney, Australia</i><br>
+                        <i class="fas fa-at"> jessralves@gmail.com</i><br>
+                        <div class="row" id="footicons">
+                            <a class="btn btn-light" href="https://github.com/jessicaribeiroalves" target="_blank"><i class="fab fa-3x fa-github"></i></a>
+                            <a class="btn btn-light" href="https://www.hackerrank.com/jessralves" target="_blank"><i class="fab fa-3x fa-hackerrank"></i></a>
+                            <a class="btn btn-light" href="https://www.linkedin.com/in/jessica-ribeiro-alves/" target="_blank"><i class="fab fa-3x fa-linkedin"></i></a>
+                            <a class="btn btn-light" href="https://medium.com/@jessalves" target="_blank"><i class="fab fa-3x fa-medium"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- CONTACT END -->
+
+        </div>
+    </div>
 
 
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
 
 </body>
 
