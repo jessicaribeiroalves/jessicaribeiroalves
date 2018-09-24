@@ -19,6 +19,11 @@ span {
     color: #7D7B7C;
 }
 
+.horizontal_scroll {
+    max-width: 100%;
+    overflow: scroll; 
+}
+
 #menu {
     display: flex;
     justify-content: space-around;
