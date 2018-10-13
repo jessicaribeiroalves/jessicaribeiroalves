@@ -51,6 +51,7 @@ nav {
   font-family: "Source Code Pro", monospace;
   display: flex;
   justify-content: center;
+  flex-shrink: 0;
 }
 
 nav a {
@@ -72,6 +73,14 @@ nav a {
   display: none;
 }
 
+#aboutme:target + #home {
+  display: none;
+}
+
+#aboutme:target + #home + #contact {
+  transition: none;
+}
+
 p {
   color: white;
   font-size: 20px;
@@ -90,17 +99,24 @@ img {
 
 /* CONTACT */
 #contact:target {
-  visibility: visible;
   opacity: 1;
 }
 
 #contact {
-  visibility: hidden;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
+  height: 350px;
+  font-family: "Source Code Pro", monospace;
   display: flex;
+  flex-direction: column;
   justify-content: space-around;
+  align-items: center;
   opacity: 0;
   transition: opacity 4s ease-in-out;
+}
+#social_media {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
 }
 
 #contact a {

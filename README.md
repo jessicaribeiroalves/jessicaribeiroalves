@@ -10,10 +10,11 @@ Design, develop and deploy a portfolio website to showcases talent, abilities an
 
 ## Functionality and Sitemap
 
-- Homepage with name, picture and navbar.
-- Navbar containing four different icons and each icon represents a different section to navigate: home, profile, history and contact.
-- Profile section containing brief description about the student such as life story, hobbies or some relevant information to demonstrate its personality.
-- History section containing information about work experience, education and relevant skills.
+- Simple and clean homepage with name, occupation and navbar.
+- Navbar containing four different icons and each icon represents a different section to navigate: home, about me, history and contact.
+- About Me section containing brief description about the student such as life story, hobbies or some relevant information to demonstrate its personality.
+- History section containing the student's resume (work experience, education and relevant skills).
+- Project section containing the main student's projects.
 - Contact section containing where the student is located; e-mail; phone and social media links.
 
 ## Screenshots
