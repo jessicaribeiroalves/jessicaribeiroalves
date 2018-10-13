@@ -18,6 +18,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-grow: 1;
+  flex-shrink: 0;
 }
 
 h1 {
@@ -123,6 +124,7 @@ img {
 
 #contact a {
   color: #ccc;
+  margin: auto;
 }
 
 /* Typing effect */
@@ -152,16 +154,9 @@ h1 {
 
 /* RESPONSIVE */
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 736px) {
   h1 {
     font-size: 30px;
-    animation: 
-      typing 1.5s steps(20, end),
-      blink-caret .75s step-end infinite;
-  }
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 78% }
   }
 
   span {
@@ -176,5 +171,53 @@ h1 {
 
   #contact a {
     font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 78% }
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 667px) {
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 45% }
+  }
+}
+
+@media screen and (min-width: 668px) and (max-width: 736px) {
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 40% }
+  }
+}
+
+@media screen and (min-width: 737px) and (max-width: 812px) {
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 90% }
+  }
+}
+
+@media screen and (min-width: 813px) and (max-width: 1024px) {
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 68% }
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1366px) {
+
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 50% }
   }
 }
