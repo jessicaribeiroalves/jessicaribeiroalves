@@ -28,12 +28,27 @@ h1 {
 
 span {
   font-family: "Source Code Pro", monospace;
+  font-size: 20px;
+  transition: opacity 2s ease-in-out 1.5s;
+  opacity: 0;
+  animation: subtitle 2s 1.5s forwards;
+}
+
+/* Span animation */
+@keyframes subtitle {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
 }
 
 /* NAVBAR */
 nav {
   width: 100%;
   padding-top: 25px;
+  font-family: "Source Code Pro", monospace;
   display: flex;
   justify-content: center;
 }
@@ -65,9 +80,18 @@ p {
   padding: 5px;
 }
 
+img {
+  width: 200px;
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+  float: right;
+}
+
 /* CONTACT */
 #contact:target {
   visibility: visible;
+  opacity: 1;
 }
 
 #contact {
@@ -75,11 +99,15 @@ p {
   margin-bottom: 50px;
   display: flex;
   justify-content: space-around;
+  opacity: 0;
+  transition: opacity 4s ease-in-out;
 }
 
 #contact a {
   color: white;
 }
+
+/* Typing effect */
 
 h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
