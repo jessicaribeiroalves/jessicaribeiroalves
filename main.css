@@ -149,3 +149,32 @@ h1 {
   from, to { border-color: transparent }
   50% { border-color: #0e76a8; }
 }
+
+/* RESPONSIVE */
+
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 30px;
+    animation: 
+      typing 1.5s steps(20, end),
+      blink-caret .75s step-end infinite;
+  }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 78% }
+  }
+
+  span {
+    font-size: 12px;
+  }
+
+  nav {
+    margin: auto;
+    padding: 5px;
+    font-size: 10px;
+  }
+
+  #contact a {
+    font-size: 12px;
+  }
+}
