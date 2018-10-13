@@ -19,16 +19,16 @@ Design, develop and deploy a portfolio website to showcases talent, abilities an
 
 ## Screenshots
 
-![Home](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Home%20Screenshot.png)
+![Home](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/images/home_screenshot.png)
 
 
-![About Me](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Profile%20Screenshot.png)
+![About Me](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/images/aboutme_screenshot.png)
 
 
-![History](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/History%20Screenshot.png)
+![History](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/images/history_screenshot.png)
 
 
-![Contact](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Contact%20Screenshot.png)
+![Contact](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/images/contact_screenshot.png)
 
 ## Target Audience
 
