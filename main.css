@@ -13,7 +13,6 @@ body {
 
 /* HOME */
 #home {
-  color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -22,11 +21,13 @@ body {
 }
 
 h1 {
+  color: white;
   font-size: 70px;
   font-family: "Source Code Pro", monospace;
 }
 
 span {
+  color: #ccc;
   font-family: "Source Code Pro", monospace;
   font-size: 20px;
   transition: opacity 2s ease-in-out 1.5s;
@@ -59,14 +60,15 @@ nav a {
   margin-right: 25px;
   margin-bottom: 25px;
   padding-bottom: 3px;
-  color: white;
+  color: #ccc;
   text-decoration: none;
 }
 
 /* ABOUT ME */
 #aboutme:target {
-  display: block;
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 #aboutme {
@@ -82,9 +84,10 @@ nav a {
 }
 
 p {
-  color: white;
+  color: #ccc;
   font-size: 20px;
   font-family: "Source Code Pro", monospace;
+  max-width: 700px;
   margin: 5px;
   padding: 5px;
 }
@@ -94,7 +97,6 @@ img {
   height: 200px;
   margin: 5px;
   padding: 5px;
-  float: right;
 }
 
 /* CONTACT */
@@ -120,7 +122,7 @@ img {
 }
 
 #contact a {
-  color: white;
+  color: #ccc;
 }
 
 /* Typing effect */

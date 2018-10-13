@@ -22,7 +22,7 @@ Design, develop and deploy a portfolio website to showcases talent, abilities an
 ![Home](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Home%20Screenshot.png)
 
 
-![Profile](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Profile%20Screenshot.png)
+![About Me](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/Profile%20Screenshot.png)
 
 
 ![History](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/History%20Screenshot.png)
