@@ -1,6 +1,6 @@
 # Portfolio Website
 
-[Link to portfolio website](https://jessicaribeiroalves.github.io/portfolio-website/)
+[Link to portfolio website](http://www.jessicaribeiroalves.com/)
 
 [Link to GitHub repository](https://github.com/jessicaribeiroalves/portfolio-website)
 
