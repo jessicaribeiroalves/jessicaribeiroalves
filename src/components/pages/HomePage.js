@@ -39,6 +39,4 @@ class HomePage extends Component {
   }
 }
 
-// TO DO: adjust margin and padding to not use <br />
-
 export default HomePage;
