@@ -1,0 +1,24 @@
+.links a {
+  color: #33D9CB;
+  font-size: 20px;
+}
+
+.links a:hover {
+  color: rgb(242, 242 , 242);
+  text-decoration: none;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 150px;
+}
+
+@media screen and (max-width: 700px) {
+  .navbar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}

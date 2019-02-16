@@ -10,36 +10,37 @@ Design, develop and deploy a portfolio website to showcases talent, abilities an
 
 ## Functionality and Sitemap
 
-- Simple and clean homepage with name, occupation and navbar.
-- Navbar containing four different icons and each icon represents a different section to navigate: home, about me, history and contact.
-- About Me section containing brief description about the student such as life story, hobbies or some relevant information to demonstrate its personality.
-- History section containing the student's resume (work experience, education and relevant skills).
-- Project section containing the main student's projects.
-- Contact section containing where the student is located; e-mail; phone and social media links.
+- Simple and clean homepage with name, brief description and menubar.
+- Menubar containing four different links and each one represents a different section to navigate: home, resume, portfolio and contact.
+- Resume link containing a resume PDF file with work experience, education and coding skills, which can be downloaded if necessary.
+- Portfolio link containing the main developer's projects.
+- Contact link containing where the student is located; e-mail; phone and social media links.
 
 ## Screenshots
 
-![Home](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/images/home_screenshot.png)
+![Home Page](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/HomeScreenshot.png)
 
+![Portfolio Page](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/PortfolioScreenshot.png)
 
-![About Me](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/images/aboutme_screenshot.png)
-
-
-![History](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/images/history_screenshot.png)
-
-
-![Contact](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/docs/images/contact_screenshot.png)
+![Contact Page](https://github.com/jessicaribeiroalves/portfolio-website/blob/master/images/ContactScreenshot.png)
 
 ## Target Audience
 
-Potential employers and others interested in the work and experience of the developer student.
+Potential employers and others interested in the work and developer's experience.
 
 ## Tech Stack
 
 - HTML
 - CSS
-- Git/GitHub
-- Flexbox
-- [Hover open source library](http://ianlunn.github.io/Hover/#effects)
+- JavaScript
+- Reactjs
+
+## npm packages and other features/technologies
+
+- create-react-app
+- react-router
+- reactstrap
+- [Typewritter effect](https://css-tricks.com/snippets/css/typewriter-effect/)
+- [Hover effects](http://ianlunn.github.io/Hover/#effects)
 - Font Awesome
 - Google Fonts

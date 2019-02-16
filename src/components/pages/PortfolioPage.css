@@ -1,0 +1,19 @@
+.portfolioContent h1 {
+  color: #33D9CB;
+}
+
+.title {
+  font-size: 2em;
+  color: #33D9CB;
+}
+
+/* RESPONSIVE */
+@media screen and (max-width: 1024px) {
+  .portfolioContent {
+    background: black;
+  }
+
+  .portfolioContent h1 {
+    font-size: 45px;
+  }
+}
