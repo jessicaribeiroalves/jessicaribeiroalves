@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Collapse, Navbar, NavbarToggler, NavbarBrand, Nav, NavItem, Badge } from 'reactstrap';
 import { Link } from "react-router-dom";
-import ResumePDF from "./../../../docs/JessicaRibeiroAlvesResume.pdf";
+import ResumePDF from "./../../docs/JessicaRibeiroAlvesResume.pdf";
 import "./MenuBar.css";
 
 class MenuBar extends Component {

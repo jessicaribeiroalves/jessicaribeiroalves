@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { Container, Jumbotron, Row, Col, Card, CardLink, CardTitle, CardText, CardImg, CardBody } from "reactstrap";
 import "./PortfolioPage.css";
-import DevMarketImg from "./../../../docs/images/DevMarket.png";
-import PortfolioImg from "./../../../docs/images/HomeScreenshot.png";
-import MusesImg from "./../../../docs/images/MusesHome.png";
+import DevMarketImg from "../../docs/images/DevMarketScreenshot.png";
+import PortfolioImg from "../../docs/images/HomeScreenshot.png";
+import MusesImg from "../../docs/images/MusesHome.png";
 
 class PortfolioPage extends Component {
   render() {
