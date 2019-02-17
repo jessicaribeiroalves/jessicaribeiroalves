@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/JessicaRibeiroAlvesResume.e2c2af52.pdf"
   },
   {
-    "revision": "4dadbc4e36d282120cd5",
+    "revision": "afb56aa262577f259ec4",
     "url": "/static/css/main.20a246c5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "4dadbc4e36d282120cd5",
-    "url": "/static/js/main.4dadbc4e.chunk.js"
+    "revision": "afb56aa262577f259ec4",
+    "url": "/static/js/main.afb56aa2.chunk.js"
   },
   {
     "revision": "08659cdfe71bc8c86556d352f62ff537",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.2a03cbd5.chunk.css"
   },
   {
-    "revision": "0b399bd6d57f2c5f3a84973d4dc80958",
+    "revision": "1819bc6a11c64e50ff95357909d2889f",
     "url": "/index.html"
   }
 ];

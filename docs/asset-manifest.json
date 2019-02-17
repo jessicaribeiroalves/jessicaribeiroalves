@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.20a246c5.chunk.css",
-  "main.js": "/static/js/main.4dadbc4e.chunk.js",
-  "main.js.map": "/static/js/main.4dadbc4e.chunk.js.map",
+  "main.js": "/static/js/main.afb56aa2.chunk.js",
+  "main.js.map": "/static/js/main.afb56aa2.chunk.js.map",
   "static/css/1.2a03cbd5.chunk.css": "/static/css/1.2a03cbd5.chunk.css",
   "static/js/1.a64e2310.chunk.js": "/static/js/1.a64e2310.chunk.js",
   "static/js/1.a64e2310.chunk.js.map": "/static/js/1.a64e2310.chunk.js.map",
@@ -12,9 +12,9 @@
   "static/media/MusesHome.png": "/static/media/MusesHome.1db3cdbe.png",
   "static/media/HomePage.css": "/static/media/background.2e5cf68b.jpg",
   "static/media/DevMarketScreenshot.png": "/static/media/DevMarketScreenshot.08659cdf.png",
-  "static/css/main.20a246c5.chunk.css.map": "/static/css/main.20a246c5.chunk.css.map",
   "static/css/1.2a03cbd5.chunk.css.map": "/static/css/1.2a03cbd5.chunk.css.map",
+  "static/css/main.20a246c5.chunk.css.map": "/static/css/main.20a246c5.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.9dd11a500d8c569957e3e4739342dd68.js": "/precache-manifest.9dd11a500d8c569957e3e4739342dd68.js",
+  "precache-manifest.28d885e82bb1f5e3f2d5d3af12efeb96.js": "/precache-manifest.28d885e82bb1f5e3f2d5d3af12efeb96.js",
   "service-worker.js": "/service-worker.js"
 }

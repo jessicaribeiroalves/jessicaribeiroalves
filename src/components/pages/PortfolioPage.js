@@ -37,7 +37,7 @@ class PortfolioPage extends Component {
                   <CardImg top width="100%" src={PortfolioImg} alt="Portfolio screenshot" />
                   <CardBody>
                     <CardText>Portfolio website designed, developed and deployed to showcases talent, abilities and coding experience.</CardText>
-                    <CardLink href="https://github.com/jessicaribeiroalves/jessicaribeiroalves.github.io">Check GitHub repo</CardLink>
+                    <CardLink href="https://github.com/jessicaribeiroalves/jessicaribeiroalves">Check GitHub repo</CardLink>
                     <CardLink href="http://www.jessicaribeiroalves.com/">Check the website</CardLink>
                   </CardBody>
                 </Card><br />
