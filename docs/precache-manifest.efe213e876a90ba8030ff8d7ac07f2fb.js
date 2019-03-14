@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "e2c2af52545b19f9a0816f8df90d19e2",
-    "url": "/static/media/JessicaRibeiroAlvesResume.e2c2af52.pdf"
+    "revision": "e7700f39c615e10fa6a64872150dca19",
+    "url": "/static/media/JessicaRibeiroAlvesResume.e7700f39.pdf"
   },
   {
-    "revision": "016fb6ab0c9ccc3ae688",
+    "revision": "6b2c10235c53f3ec706f",
     "url": "/static/css/main.20a246c5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "016fb6ab0c9ccc3ae688",
-    "url": "/static/js/main.016fb6ab.chunk.js"
+    "revision": "6b2c10235c53f3ec706f",
+    "url": "/static/js/main.6b2c1023.chunk.js"
   },
   {
     "revision": "08659cdfe71bc8c86556d352f62ff537",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/css/1.2a03cbd5.chunk.css"
   },
   {
-    "revision": "3733cd2f9eab054325203efc665526bc",
+    "revision": "f9df793ea7afbc8d56e60351efa0388d",
     "url": "/index.html"
   }
 ];
