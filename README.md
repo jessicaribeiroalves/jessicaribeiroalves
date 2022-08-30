@@ -6,19 +6,6 @@
   Welcome to my GitHub page!
 </p>
 
-<details>
-  <summary>Resume</summary>
-
-## Education
-
-- **Diploma of Information Technology**\
-2018 - 2019\
-📍 **Coder Academy** - Sydney, NSW, Australia
-
-- **Bachelor of Engineering, Bioprocess Engineering and Biotechnology**\
-2010 - 2016\
-📍 **Universidade Estadual Paulista (UNESP)** - Assis, SP, Brazil
-
 ## Work Experience
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
@@ -61,7 +48,17 @@ Jun/2019 - Jan/2020\
 Feb/2019 - Mar/2019\
 📍 **Digivizer** - Sydney, NSW, Australia
 
-</details>
+## Education
+
+- **Diploma of Information Technology**\
+2018 - 2019\
+📍 **Coder Academy** - Sydney, NSW, Australia
+
+- **Bachelor of Engineering, Bioprocess Engineering and Biotechnology**\
+2010 - 2016\
+📍 **Universidade Estadual Paulista (UNESP)** - Assis, SP, Brazil
+
+##
 
 <p align="center">
     <a href="https://www.linktr.ee/jessicaribeiroalves/" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
