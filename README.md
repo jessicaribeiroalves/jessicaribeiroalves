@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Welcome to my GitHub page!
+  Welcome to my GitHub page! :octocat:
 </p>
 
 ## Work Experience
