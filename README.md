@@ -15,9 +15,9 @@
 
 ##
 
-Check out my [blog posts]('https://dev.to/alvesjessica') 👩🏻‍💻
+Check out my [blog posts](https://dev.to/alvesjessica) 👩🏻‍💻
 
-[Click here]('https://jessalves.notion.site/9f7aa9dae41640dabd63352929d69006?v=6f36629e9fe54a4b95fa10b948deda29') to see what I've been reading 📚
+[Click here](https://jessalves.notion.site/9f7aa9dae41640dabd63352929d69006?v=6f36629e9fe54a4b95fa10b948deda29) to see what I've been reading 📚
 
 ## Work Experience
 
