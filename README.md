@@ -13,6 +13,12 @@
     <a href="https://www.dev.to/alvesjessica/" target="_blank"><img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 </p>
 
+##
+
+Check out my [blog posts]('https://dev.to/alvesjessica') 👩🏻‍💻
+
+[Click here]('https://jessalves.notion.site/9f7aa9dae41640dabd63352929d69006?v=6f36629e9fe54a4b95fa10b948deda29') to see what I've been reading 📚
+
 ## Work Experience
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
