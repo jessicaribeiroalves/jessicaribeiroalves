@@ -38,7 +38,7 @@ Aug/2021 - Oct/2021\
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
 
 - **Front End Developer**\
-Jul/2020 - Jul/2021\
+Jul/2020 - Jun/2021\
 📍 **Bosch** - Campinas, SP, Brazil (remote)
 
 <img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
