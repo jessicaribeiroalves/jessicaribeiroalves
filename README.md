@@ -33,6 +33,8 @@ Aug/2021 - Oct/2021\
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 
+<img align="right" src="https://img.shields.io/badge/Bitbucket-0747a6?logo=bitbucket&logoColor=white" />
+
 <img align="right" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
 
 <img align="right" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
@@ -54,6 +56,8 @@ Jul/2020 - Jun/2021\
 - **Junior Software Engineer**\
 Jun/2019 - Jan/2020\
 📍 **Hireup** - Sydney, NSW, Australia
+
+<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 
 <img align="right" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" />
 
