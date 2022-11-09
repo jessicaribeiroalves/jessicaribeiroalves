@@ -7,10 +7,38 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linktr.ee/jessicaribeiroalves/" target="_blank"><img alt="LinkTree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/jessica-ribeiro-alves/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://www.hackerrank.com/jessralves/" target="_blank"><img alt="DevTo" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-    <a href="https://www.dev.to/alvesjessica/" target="_blank"><img alt="DevTo" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a
+    href="https://www.linkedin.com/in/jessica-ribeiro-alves/"
+    target="_blank">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a
+    href="https://www.hackerrank.com/jessralves/"
+    target="_blank">
+    <img
+      alt="DevTo"
+        src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+    />
+  </a>
+  <a
+    href="https://leetcode.com/jessralves/"
+    target="_blank">
+    <img
+      alt="LeetCode"
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+    />
+  </a>
+  <a
+    href="https://www.dev.to/alvesjessica/"
+    target="_blank">
+    <img
+      alt="DevTo"
+      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
+    />
+  </a>
 </p>
 
 Check out my [blog posts](https://dev.to/alvesjessica) 👩🏻‍💻
