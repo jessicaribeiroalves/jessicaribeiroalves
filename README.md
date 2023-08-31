@@ -49,6 +49,7 @@ Check out my [blog posts](https://dev.to/alvesjessica) 👩🏻‍💻
 
 [![@alvesjessica's Holopin board](https://holopin.io/api/user/board?user=alvesjessica)](https://holopin.io/@alvesjessica)
 
+<!---
 ## Work Experience
 
 <img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
@@ -104,3 +105,5 @@ Feb/2019 - Mar/2019\
 - **Bachelor of Engineering, Bioprocess Engineering and Biotechnology**\
 2010 - 2016\
 📍 **Universidade Estadual Paulista (UNESP)** - Assis, SP, Brazil
+-->
+
