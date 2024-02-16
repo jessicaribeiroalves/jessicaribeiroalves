@@ -47,7 +47,7 @@ Check out my [blog posts](https://dev.to/alvesjessica) 👩🏻‍💻
 
 ##
 
-[![@alvesjessica's Holopin board](https://holopin.io/api/user/board?user=alvesjessica)](https://holopin.io/@alvesjessica)
+[![@alvesjessica's Holopin board](https://holopin.me/alvesjessica)](https://holopin.io/@alvesjessica)
 
 <!---
 ## Work Experience
